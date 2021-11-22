@@ -1,8 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-
-function checkDbIds (checkData){
+module.exports.checkDbIds = (checkData) => {
   let { modelFile, ids } = checkData
   var appDir = path.dirname(require.main.filename)
   let path = ""
