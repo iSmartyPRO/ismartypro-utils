@@ -1,0 +1,16 @@
+{
+  "name": "ismartypro-utils",
+  "version": "1.0.0",
+  "description": "iSmartyPro Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils"],
+  "author": "Ilias Aidar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iSmartyPRO/ismartypro-utils/issues"
+  },
+  "homepage": "https://github.com/iSmartyPRO/ismartypro-utils#readme"
+}
