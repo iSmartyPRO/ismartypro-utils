@@ -1,0 +1,49 @@
+{
+  "_from": "ismartypro-utils@1.0.15",
+  "_id": "ismartypro-utils@1.0.15",
+  "_inBundle": false,
+  "_integrity": "sha512-1XKdE1cIpf4NYBDMNFk7n5YV021Jv0UGrDK+gaGFuHkD76xAXBCAe3SqSd+L4QIbweu5e0z6bnfi6tDi9b6Gog==",
+  "_location": "/ismartypro-utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ismartypro-utils@1.0.15",
+    "name": "ismartypro-utils",
+    "escapedName": "ismartypro-utils",
+    "rawSpec": "1.0.15",
+    "saveSpec": null,
+    "fetchSpec": "1.0.15"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ismartypro-utils/-/ismartypro-utils-1.0.15.tgz",
+  "_shasum": "50d45bbeb3442739bfad3bfcc386148acb0c53f2",
+  "_spec": "ismartypro-utils@1.0.15",
+  "_where": "D:\\Projects\\hse-observer",
+  "author": {
+    "name": "Ilias Aidar"
+  },
+  "bugs": {
+    "url": "https://github.com/iSmartyPRO/ismartypro-utils/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "iSmartyPro Utilities",
+  "homepage": "https://github.com/iSmartyPRO/ismartypro-utils#readme",
+  "keywords": [
+    "utils"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ismartypro-utils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.17",
+  "dependencies": {
+    "i18n": "^0.13.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "error.incorrectId": "Your ID '{{ id }}' is incorrect, please use another ID",
+  "error.modelNotExist": "Model file not exist",
+  "error.modelNotFound": "Model file: {{modelFile}} not found",
+  "error.mongoose": "Mongoose error occurs. Error: {{error}}",
+  "error.notFoundIds": "IDs not found in model {{modelFile}}. Missing IDs: {{missingIds}}"
+}

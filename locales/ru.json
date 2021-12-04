@@ -1,0 +1,7 @@
+{
+  "error.incorrectId": "Вы указали неправильный ID '{{ id }}', пожалуйста укажите другой ID",
+  "error.modelNotExist": "Не существует файл модели",
+  "error.modelNotFound": "Не найден файл модели: {{modelFile}}",
+  "error.mongoose": "Возникла ошибка mongoose",
+  "error.notFoundIds": "В модели {{modelFile}} не найдены следующие ID: {{missingIds}}"
+}

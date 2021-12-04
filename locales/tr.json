@@ -1,0 +1,7 @@
+{
+  "error.incorrectId": "Kimliğiniz '{{id}}' yanlış, lütfen başka bir kimlik kullanın",
+  "error.modelNotExist": "Model dosyası mevcut değil",
+  "error.modelNotFound": "Model dosyası: {{modelFile}} bulunamadı",
+  "error.mongoose": "Mongoose hatası oluşur. Hata: {{hata}}",
+  "error.notFoundIds": "{{modelFile}} modelinde kimlik bulunamadı. Eksik Kimlikler: {{missingIds}}"
+}
